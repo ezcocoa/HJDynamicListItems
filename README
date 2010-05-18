@@ -1,0 +1,21 @@
+ceated : 2010/05/18
+maker : hojun, baek
+git repo : http://github.com/hjbaek/HJDynamicListItems
+blog : ezcocoa.com
+
+description..
+
+Dynamic List Items,
+this project is used classes that
+ 
+import java.util.ArrayList;
+import java.util.HashMap;
+
+import android.app.ListActivity;
+import android.os.Bundle;
+import android.util.Log;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.SimpleAdapter;
